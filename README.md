@@ -1,4 +1,5 @@
 # zabbix quiz
+![Zabbix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/320px-Zabbix_logo.svg.png)
 
 **Beginner Questions:**
 
