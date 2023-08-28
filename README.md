@@ -39,7 +39,7 @@ This repository is provided under the [MIT License](LICENSE).
 
 **** 
 
-**Beginner Questions:**
+:star: **Beginner Questions**
 
 <details>
 <summary>What is Zabbix?</summary><br><b>
@@ -181,7 +181,7 @@ Maintenance periods in Zabbix can be configured to suppress notifications and da
 
 </b></details>
 
-**Intermediate Questions:**
+:star::star: **Intermediate Questions**
 
 <details>
 <summary>What are low-level discovery (LLD) rules in Zabbix?</summary><br><b>
@@ -325,7 +325,7 @@ A calculated item in Zabbix is an item that computes its value based on the valu
 
 </b></details>
 
-**Expert Questions:**
+:star::star::star: **Expert Questions**
 
 <details>
 <summary>How do you create a calculated item in Zabbix?</summary><br><b>
