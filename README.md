@@ -26,7 +26,7 @@ This repository contains a list of 100 questions, covering a wide range of topic
 - **Expert Questions**: Dive deep into complex Zabbix configurations, monitoring Docker, HA setups, and more.
 
 ## Contributing
-
+We welcome contributions to this repository! If you'd like to contribute questions, improvements, or suggestions, please read our [Contribution Guidelines](CONTRIBUTING.md) for detailed information on how to get started.
 If you'd like to contribute to this repository by adding more questions, improving existing ones, or making any enhancements, please feel free to fork the repository and submit a pull request. Your contributions are greatly appreciated!
 
 ## License
