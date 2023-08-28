@@ -1,5 +1,43 @@
-# Zabbix Interview Questions and Answers
-![Zabbix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/320px-Zabbix_logo.svg.png)
+<h1 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/320px-Zabbix_logo.svg.png" alt="Zabbix Logo"><br>
+  Zabbix Questions Repository
+</h1>
+
+<p align="center">
+  Welcome to the Zabbix Questions Repository! This repository contains a comprehensive list of questions covering various aspects of Zabbix, including installation, configuration, monitoring, troubleshooting, and advanced features. Use these questions to test your knowledge and learn more about Zabbix.
+</p>
+
+## Introduction
+
+[Zabbix](https://www.zabbix.com/) is an enterprise-class open-source monitoring solution designed for network monitoring and application monitoring, capable of handling millions of metrics effortlessly. Whether you're a beginner looking to get started or an expert seeking to dive deeper, these questions will help you explore the world of Zabbix.
+
+## How to Use
+
+Each question in this repository is designed to provide clarity and test your understanding of Zabbix. The questions are categorized into three levels: Beginner, Intermediate, and Expert. You can expand each question to reveal detailed answers and explanations.
+
+Feel free to use these questions for self-assessment, as a study resource, or as a reference for Zabbix-related topics. Enjoy exploring the world of Zabbix monitoring!
+
+## Contents
+
+This repository contains a list of 100 questions, covering a wide range of topics related to Zabbix. The questions are organized into three difficulty levels: Beginner, Intermediate, and Expert. Below is a brief overview of the categories:
+
+- **Beginner Questions**: Cover fundamental concepts, installation, and basic configuration.
+- **Intermediate Questions**: Explore more advanced topics like custom templates, authentication, and SNMP.
+- **Expert Questions**: Dive deep into complex Zabbix configurations, monitoring Docker, HA setups, and more.
+
+## Contributing
+
+If you'd like to contribute to this repository by adding more questions, improving existing ones, or making any enhancements, please feel free to fork the repository and submit a pull request. Your contributions are greatly appreciated!
+
+## License
+
+This repository is provided under the [MIT License](LICENSE).
+
+
+
+
+
+**** 
 
 **Beginner Questions:**
 
